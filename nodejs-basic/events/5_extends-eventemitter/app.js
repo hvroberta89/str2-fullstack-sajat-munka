@@ -1,4 +1,3 @@
-const { start } = require('repl')
 const Calculator = require( './Calculator' )
 const calculator = new Calculator()
 
