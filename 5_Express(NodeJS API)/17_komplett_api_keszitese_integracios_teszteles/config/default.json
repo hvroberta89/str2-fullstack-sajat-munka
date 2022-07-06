@@ -1,0 +1,7 @@
+{
+    "database": {
+        "username": "mongoDB",
+        "password": "Epl7Xk1Z48QjReRe",
+        "host": "cluster0.yhp7m.mongodb.net/?retryWrites=true&w=majority"
+    }
+}
